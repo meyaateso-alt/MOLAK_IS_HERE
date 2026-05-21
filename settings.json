@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "MOLAK_IS_HERE",
   "bot-account": {
     "username": "Technoblade",
-    "password": "",
+    "password": "Atesomeya17",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "Marsmelon.gamename.net",
+    "port": 51765,
     "version": "1.21.1"
   },
   "position": {
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "LMAOOOO",
+        "Why?!",
+        "u r so gay"
       ]
     },
     "chat-log": true,
